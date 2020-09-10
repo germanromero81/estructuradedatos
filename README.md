@@ -1,2 +1,2 @@
 # Estructura de Datos
-trabajospracticos
+trabajos practicos
