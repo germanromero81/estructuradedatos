@@ -1,2 +1,2 @@
-# estructuradedatos
+# Estructura de Datos
 trabajospracticos
